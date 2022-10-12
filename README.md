@@ -1,4 +1,4 @@
-# background-color-picker
+## Programmed on-demand background color changer for a client(twitch streamer) built with HTML, CSS, and Javascript. Randomly generates hex colors.
 
 
 https://background-color-picker.netlify.app/
